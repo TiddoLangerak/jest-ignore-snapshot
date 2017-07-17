@@ -1,0 +1,4 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot in ignored folder should be ignored`] = `<div />`;
+
